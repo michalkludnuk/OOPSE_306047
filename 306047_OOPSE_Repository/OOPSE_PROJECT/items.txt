@@ -1,0 +1,3 @@
+Wand_of_Magic 1
+Shield_of_Defence 2
+Sword_of_Offence 3
